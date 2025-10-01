@@ -1,0 +1,12 @@
+package com.proconnect.enums;
+
+public enum AnalyticsType {
+    JOB_POSTED,
+    JOB_VIEWED,
+    APPLICATION_SUBMITTED,
+    APPLICATION_SHORTLISTED,
+    APPLICATION_REJECTED,
+    PAYMENT_MADE,
+    USER_REGISTERED,
+    NOTIFICATION_SENT
+}
